@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 , I,m Ahmed Helmy</h1>
 
-<!--
-**AhmedHelmy72/AhmedHelmy72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">A Flutter developer from Egypt</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me 🙋‍♂️ :</h2>
+
+###
+
+<p align="left">📚 I'm currently studying **Computer Science** and focusing on **Flutter development**<br><br>🎯 Goals:<br>  <br>- Build real-world apps with clean architecture  <br>- Join a Flutter team or internship before graduation  <br>- Constantly improve my skills in mobile development  <br><br>------------------------------------------------<br><br>📄 [Check out my resume]<br>(https://drive.google.com/file/d/1WvYXMea-T9_tMABu6d0lak97OomLgKun/view?usp=sharing)  <br><br>🔗 [View my projects]<br>(https://github.com/AhmedHelmy72)<br><br>------------------------------------------------<br><br>📞 Connect with me<br><br>- 📧 Email: [ahmed72helmy@gmail.com](mailto:ahmed72helmy@gmail.com)  <br>- 📱 Phone (EG): +20 100 238 6154  <br>- 💼 LinkedIn: [Ahmed Helmy](https://www.linkedin.com/in/ahmed-helmy-8a1426282/)</p>
+
+###
+
+<h2 align="left">Languages and Tools:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHelmy72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHelmy72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AhmedHelmy72/AhmedHelmy72/output/snake.svg" alt="Snake animation" />
+
+###
