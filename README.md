@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying Computer Science and focusing on Flutter development<br><br>🎯 Goals:<br>  <br>- Build real-world apps with clean architecture  <br>- Join a Flutter team or internship before graduation  <br>- Constantly improve my skills in mobile development  <br><br>------------------------------------------------<br><br>📄 [Check out my resume]<br>(https://drive.google.com/file/d/1NWhQ-6qrGHNZjHD5st1vgaFMk5WF0mbz/view?usp=sharing)  <br><br>🔗 [View my projects]<br>(https://github.com/AhmedHelmy72)<br><br>------------------------------------------------<br><br>📞 Connect with me<br><br>- 📧 Email: [ahmed72helmy@gmail.com](mailto:ahmed72helmy@gmail.com)  <br>- 📱 Phone (EG): +20 100 238 6154  <br>- 💼 LinkedIn: [Ahmed Helmy](https://www.linkedin.com/in/ahmed-helmy72)</p>
+<p align="left">📚 I'm currently studying Computer Science and focusing on Flutter development<br><br>🎯 Goals:<br>  <br>- Build real-world apps with clean architecture  <br>- Join a Flutter team or internship before graduation  <br>- Constantly improve my skills in mobile development  <br><br>------------------------------------------------<br><br>📄 [Check out my resume]<br>(https://drive.google.com/file/d/1LXAjSVam0cUiM4ETDPbQj68Q_SHWWgQK/view?usp=sharing)  <br><br>🔗 [View my projects]<br>(https://github.com/AhmedHelmy72)<br><br>------------------------------------------------<br><br>📞 Connect with me<br><br>- 📧 Email: [ahmed72helmy@gmail.com](mailto:ahmed72helmy@gmail.com)  <br>- 📱 Phone (EG): +20 100 238 6154  <br>- 💼 LinkedIn: [Ahmed Helmy](https://www.linkedin.com/in/ahmed-helmy72)</p>
 
 ###
 
